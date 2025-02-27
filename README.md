@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruben Ellefsen</h1>
+<h1 align="center">Hi 👋, I'm Ruben Nienhuis</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellrub&label=Profile%20views&color=0e75b6&style=flat" alt="ellrub" /> </p>
 
 - 🌱 I’m currently learning **Python**
